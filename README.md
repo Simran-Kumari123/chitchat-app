@@ -16,7 +16,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/chitchat-app.git
+git clone (https://github.com/Simran-Kumari123/chitchat-app.git)
 Open index.html in your browser.
 Technologies
 Frontend: HTML, CSS, JavaScript
